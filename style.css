@@ -128,4 +128,37 @@ margin-top: 30px;
 {
     display: none;
 }
+.dflexinsek1
+{
+    flex-direction: column;
+}
+.sek1-h1
+{
+    margin-left: 20px;
+    font-size: 40px;
+    width: 300px;
+}
+.sek-p
+{
+    margin-left: 20px;
+    font-size: 20px;
+    width: 300px;
+}
+.menu
+{
+
+    margin-left: 100px;
+}
+.mediatek
+{
+    width: 400px;
+}
+.qq2
+{    overflow: scroll;
+    width: 100%;
+}
+.sek2{
+overflow: scroll;
+width: 100%;
+}
 }
